@@ -1,5 +1,11 @@
 # C++-Dojo
 
+
+Accessing VSCODE on windows:
+From windows search bar type: De and let it autocomplete to Developer Command Prompt for VS 2022
+From here travel to directory you'd like to open and then type `code .`
+
+
 ### Chapter 4. Basic Declarations and Expressions
 Exercise 4-1:Write a program  to print your name, Social Security number, and date of birth.   
 Exercise 4-2: Write a program to print a block E using asterisks (*), where the E is 7 characters high and 5 characters wide.   
